@@ -1,0 +1,39 @@
+{
+  "id": "3sqfnbn95e",
+  "name": {
+    "tr": "Teklif İste",
+    "en": "Request a Quote",
+    "ar": "اطلب عرض سعر"
+  },
+  "description": {
+    "tr": "Konuyu ve uygun günü seçin; talebiniz bu demo sitede yalnızca tarayıcınızda oluşturulur.",
+    "en": "Choose a topic and a convenient day; on this demo site your request is created only in your browser.",
+    "ar": "اختر الموضوع واليوم المناسب؛ يُنشأ طلبك في متصفحك فقط."
+  },
+  "keyword": {
+    "tr": "ihracat, dış ticaret, kuru gıda, tekstil",
+    "en": "export, foreign trade, dried foods, textiles",
+    "ar": "تصدير، تجارة خارجية، أغذية مجففة، منسوجات"
+  },
+  "path": "teklif-al",
+  "icon": "request_quote",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "ei9sp8"
+    ],
+    "footer": []
+  },
+  "index": 2,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Teklif İste",
+    "en": "Request a Quote",
+    "ar": "اطلب عرض سعر"
+  },
+  "date": "2026-10-31T14:55:01.162Z",
+  "update": "2026-10-31T15:02:56.939Z"
+}

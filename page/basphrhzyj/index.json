@@ -1,0 +1,39 @@
+{
+  "id": "basphrhzyj",
+  "name": {
+    "tr": "Galeri",
+    "en": "Gallery",
+    "ar": "المعرض"
+  },
+  "description": {
+    "tr": "Ürün, depo ve liman görüntüleri; temsilidir.",
+    "en": "Product, warehouse and port images; illustrative.",
+    "ar": "صور منتجات ومستودع وميناء؛ توضيحية."
+  },
+  "keyword": {
+    "tr": "galeri, fotoğraf",
+    "en": "gallery, photos",
+    "ar": "معرض، صور"
+  },
+  "path": "galeri",
+  "icon": "photo_library",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "6xw8sw"
+    ],
+    "footer": []
+  },
+  "index": 4,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Galeri",
+    "en": "Gallery",
+    "ar": "المعرض"
+  },
+  "date": "2026-10-31T14:55:01.165Z",
+  "update": "2026-10-31T15:02:56.941Z"
+}

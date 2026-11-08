@@ -1,0 +1,41 @@
+{
+  "id": "gft54r79tk",
+  "name": {
+    "tr": "Ürünlerimiz",
+    "en": "Products",
+    "ar": "منتجاتنا"
+  },
+  "description": {
+    "tr": "Fiyatlar miktara ve Incoterms şartına göre değişir; teklif isteyin.",
+    "en": "Prices vary by quantity and Incoterms; request a quote.",
+    "ar": "تتغير الأسعار بحسب الكمية وشروط Incoterms؛ اطلب عرض سعر."
+  },
+  "keyword": {
+    "tr": "ihracat, dış ticaret, kuru gıda, tekstil",
+    "en": "export, foreign trade, dried foods, textiles",
+    "ar": "تصدير، تجارة خارجية، أغذية مجففة، منسوجات"
+  },
+  "path": "urunlerimiz",
+  "icon": "inventory_2",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "ug8759",
+      "ek4yza",
+      "f31f9f"
+    ],
+    "footer": []
+  },
+  "index": 0,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Ürünlerimiz",
+    "en": "Products",
+    "ar": "منتجاتنا"
+  },
+  "date": "2026-10-31T14:53:25.411Z",
+  "update": "2026-10-31T15:02:56.933Z"
+}

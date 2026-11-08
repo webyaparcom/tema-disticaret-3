@@ -1,0 +1,40 @@
+{
+  "id": "4wdy5l9aud",
+  "name": {
+    "tr": "Hakkımızda",
+    "en": "About",
+    "ar": "من نحن"
+  },
+  "description": {
+    "tr": "Anka Trade, üreticiyi uluslararası alıcıyla buluştururken belge ve sevkiyat sürecini baştan sona yöneten kurgusal bir demo firmadır. Bu sitedeki ürünler, belgeler ve pazarlar kurgusaldır.",
+    "en": "Anka Trade is a fictional demo company that connects producers with international buyers and manages the documents and shipping process end to end. Products, documents and markets on this site are fictional.",
+    "ar": "أنقا تريد شركة تجريبية افتراضية تربط المنتجين بالمشترين الدوليين وتدير المستندات والشحن من البداية إلى النهاية. المنتجات والوثائق والأسواق في هذا الموقع افتراضية."
+  },
+  "keyword": {
+    "tr": "hakkımızda",
+    "en": "about",
+    "ar": "من نحن"
+  },
+  "path": "hakkimizda",
+  "icon": "info",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "6gz9q1",
+      "rq8wkm"
+    ],
+    "footer": []
+  },
+  "index": 5,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Hakkımızda",
+    "en": "About",
+    "ar": "من نحن"
+  },
+  "date": "2026-10-31T14:55:01.169Z",
+  "update": "2026-10-31T15:02:56.943Z"
+}

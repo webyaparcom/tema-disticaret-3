@@ -1,0 +1,197 @@
+{
+  "data": [
+    {
+      "id": "gft54r79tk",
+      "name": {
+        "tr": "Ürünlerimiz",
+        "en": "Products",
+        "ar": "منتجاتنا"
+      },
+      "description": {
+        "tr": "Fiyatlar miktara ve Incoterms şartına göre değişir; teklif isteyin.",
+        "en": "Prices vary by quantity and Incoterms; request a quote.",
+        "ar": "تتغير الأسعار بحسب الكمية وشروط Incoterms؛ اطلب عرض سعر."
+      },
+      "path": "urunlerimiz",
+      "icon": "inventory_2",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "ug8759",
+          "ek4yza",
+          "f31f9f"
+        ],
+        "footer": []
+      },
+      "index": 0
+    },
+    {
+      "id": "vwk2t8uoi5",
+      "name": {
+        "tr": "Pazarlar",
+        "en": "Markets",
+        "ar": "الأسواق"
+      },
+      "description": {
+        "tr": "Hedef pazar bölgeleri.",
+        "en": "Target market regions.",
+        "ar": "مناطق الأسواق المستهدفة."
+      },
+      "path": "pazarlar",
+      "icon": "public",
+      "category": "gft54r79tk",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "fx2b13"
+        ],
+        "footer": []
+      },
+      "index": 1
+    },
+    {
+      "id": "3sqfnbn95e",
+      "name": {
+        "tr": "Teklif İste",
+        "en": "Request a Quote",
+        "ar": "اطلب عرض سعر"
+      },
+      "description": {
+        "tr": "Konuyu ve uygun günü seçin; talebiniz bu demo sitede yalnızca tarayıcınızda oluşturulur.",
+        "en": "Choose a topic and a convenient day; on this demo site your request is created only in your browser.",
+        "ar": "اختر الموضوع واليوم المناسب؛ يُنشأ طلبك في متصفحك فقط."
+      },
+      "path": "teklif-al",
+      "icon": "request_quote",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "ei9sp8"
+        ],
+        "footer": []
+      },
+      "index": 2
+    },
+    {
+      "id": "rwsxper9ed",
+      "name": {
+        "tr": "Sertifikalar",
+        "en": "Certificates",
+        "ar": "الشهادات"
+      },
+      "description": {
+        "tr": "ISO, ihracatçı birliği ve menşe belgeleri.",
+        "en": "ISO, exporters’ association and origin documents.",
+        "ar": "ISO واتحاد المصدّرين ووثائق المنشأ."
+      },
+      "path": "sertifikalar",
+      "icon": "verified",
+      "category": "gft54r79tk",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "1s60zl"
+        ],
+        "footer": []
+      },
+      "index": 3
+    },
+    {
+      "id": "basphrhzyj",
+      "name": {
+        "tr": "Galeri",
+        "en": "Gallery",
+        "ar": "المعرض"
+      },
+      "description": {
+        "tr": "Ürün, depo ve liman görüntüleri; temsilidir.",
+        "en": "Product, warehouse and port images; illustrative.",
+        "ar": "صور منتجات ومستودع وميناء؛ توضيحية."
+      },
+      "path": "galeri",
+      "icon": "photo_library",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "6xw8sw"
+        ],
+        "footer": []
+      },
+      "index": 4
+    },
+    {
+      "id": "4wdy5l9aud",
+      "name": {
+        "tr": "Hakkımızda",
+        "en": "About",
+        "ar": "من نحن"
+      },
+      "description": {
+        "tr": "Anka Trade, üreticiyi uluslararası alıcıyla buluştururken belge ve sevkiyat sürecini baştan sona yöneten kurgusal bir demo firmadır. Bu sitedeki ürünler, belgeler ve pazarlar kurgusaldır.",
+        "en": "Anka Trade is a fictional demo company that connects producers with international buyers and manages the documents and shipping process end to end. Products, documents and markets on this site are fictional.",
+        "ar": "أنقا تريد شركة تجريبية افتراضية تربط المنتجين بالمشترين الدوليين وتدير المستندات والشحن من البداية إلى النهاية. المنتجات والوثائق والأسواق في هذا الموقع افتراضية."
+      },
+      "path": "hakkimizda",
+      "icon": "info",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "6gz9q1",
+          "rq8wkm"
+        ],
+        "footer": []
+      },
+      "index": 5
+    },
+    {
+      "name": {
+        "tr": "İletişim",
+        "en": "Contact",
+        "ar": "اتصل بنا"
+      },
+      "status": "play",
+      "category": "",
+      "id": "xnzu5au0ag",
+      "url": "",
+      "path": "iletisim",
+      "index": 6,
+      "icon": "call",
+      "desing": {
+        "header": [],
+        "body": [
+          "87ubh2",
+          "t3mp01"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Adres, telefon, e-posta ve çalışma saatleri.",
+        "en": "Address, phone, e-mail and opening hours.",
+        "ar": "العنوان والهاتف والبريد الإلكتروني وساعات العمل."
+      }
+    }
+  ],
+  "desc": [],
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "modulestatus": {
+    "page": true,
+    "bgimg": true,
+    "detail": true,
+    "body": true
+  }
+}

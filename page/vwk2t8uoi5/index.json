@@ -1,0 +1,39 @@
+{
+  "id": "vwk2t8uoi5",
+  "name": {
+    "tr": "Pazarlar",
+    "en": "Markets",
+    "ar": "الأسواق"
+  },
+  "description": {
+    "tr": "Hedef pazar bölgeleri.",
+    "en": "Target market regions.",
+    "ar": "مناطق الأسواق المستهدفة."
+  },
+  "keyword": {
+    "tr": "pazarlar, bölgeler",
+    "en": "markets, regions",
+    "ar": "أسواق، مناطق"
+  },
+  "path": "pazarlar",
+  "icon": "public",
+  "category": "gft54r79tk",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "fx2b13"
+    ],
+    "footer": []
+  },
+  "index": 1,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Pazarlar",
+    "en": "Markets",
+    "ar": "الأسواق"
+  },
+  "date": "2026-10-31T14:53:25.414Z",
+  "update": "2026-10-31T15:02:56.935Z"
+}
