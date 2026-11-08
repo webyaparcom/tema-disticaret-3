@@ -1,0 +1,43 @@
+{
+  "id": "rwsxper9ed",
+  "name": {
+    "tr": "Sertifikalar",
+    "en": "Certificates",
+    "ar": "الشهادات"
+  },
+  "description": {
+    "tr": "ISO, ihracatçı birliği ve menşe belgeleri.",
+    "en": "ISO, exporters’ association and origin documents.",
+    "ar": "ISO واتحاد المصدّرين ووثائق المنشأ."
+  },
+  "keyword": {
+    "tr": "sertifikalar, ISO",
+    "en": "certificates, ISO",
+    "ar": "شهادات، ISO"
+  },
+  "path": "sertifikalar",
+  "icon": "verified",
+  "category": "gft54r79tk",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "1s60zl"
+    ],
+    "footer": []
+  },
+  "index": 3,
+  "url": "",
+  "text": {
+    "tr": "<h2>Sertifikalar ve belgeler</h2><p>Anka Trade, bu demo sitede kuru gıda, tekstil ve ambalaj ürünlerinde ihracat yapan kurgusal bir firmadır. Aşağıdaki belgeler örnektir (DEMO).</p><ul><li>ISO 9001 Kalite Yönetimi — DEMO-9001</li><li>ISO 22000 Gıda Güvenliği — DEMO-22000</li><li>İhracatçı Birliği üyelik belgesi — DEMO-IB-0001</li><li>Menşe şahadetnamesi düzenleme yetkisi — DEMO-MS-0001</li></ul><p><em>Demo sitedir; numaralar örnektir.</em></p>",
+    "en": "<h2>Certificates and documents</h2><p>On this demo site Anka Trade is a fictional company exporting dried foods, textiles and packaging. The documents below are samples (DEMO).</p><ul><li>ISO 9001 Quality Management — DEMO-9001</li><li>ISO 22000 Food Safety — DEMO-22000</li><li>Exporters’ association membership — DEMO-IB-0001</li><li>Certificate-of-origin issuing authority — DEMO-MS-0001</li></ul><p><em>This is a demo site; the numbers are examples.</em></p>",
+    "ar": "<h2>الشهادات والوثائق</h2><p>تُعدّ شركة أنقا تريد في هذا الموقع التجريبي شركة افتراضية تصدّر الأغذية المجففة والمنسوجات والتغليف. الوثائق أدناه أمثلة (DEMO).</p><ul><li>ISO 9001 إدارة الجودة — DEMO-9001</li><li>ISO 22000 سلامة الغذاء — DEMO-22000</li><li>عضوية اتحاد المصدّرين — DEMO-IB-0001</li><li>صلاحية إصدار شهادات المنشأ — DEMO-MS-0001</li></ul><p><em>هذا موقع تجريبي والأرقام أمثلة.</em></p>"
+  },
+  "title": {
+    "tr": "Sertifikalar",
+    "en": "Certificates",
+    "ar": "الشهادات"
+  },
+  "date": "2026-10-31T14:53:25.417Z",
+  "update": "2026-10-31T15:02:56.937Z"
+}

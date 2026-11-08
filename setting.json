@@ -1,0 +1,58 @@
+{
+  "order": false,
+  "user": false,
+  "description": {
+    "tr": "Anka Trade: kuru gıda, tekstil ve ambalaj ihracatı; hedef pazarlar, sertifikalar ve üç dilde teklif talebi. (Demo site)",
+    "en": "Anka Trade: export of dried foods, textiles and packaging; target markets, certificates and quote requests in three languages. (Demo site)",
+    "ar": "أنقا تريد: تصدير الأغذية المجففة والمنسوجات والتغليف مع الأسواق المستهدفة والشهادات وطلب عرض سعر بثلاث لغات. (موقع تجريبي)"
+  },
+  "keyword": {
+    "tr": "ihracat, dış ticaret, kuru gıda, tekstil",
+    "en": "export, foreign trade, dried foods, textiles",
+    "ar": "تصدير، تجارة خارجية، أغذية مجففة، منسوجات"
+  },
+  "category": "Kurumsal",
+  "name": "Anka Trade",
+  "domain": "disticaret-3.webyapar.com",
+  "langs": {
+    "tr": true,
+    "en": true,
+    "ar": true,
+    "de": false,
+    "ru": false,
+    "es": false,
+    "fr": false,
+    "it": false,
+    "ja": false,
+    "zh": false,
+    "ko": false,
+    "pt": false
+  },
+  "logo": "logo.png",
+  "multi": false,
+  "icon": "icon.png",
+  "theme_color": "#B33A0B",
+  "publishMode": "static",
+  "font": {
+    "body": "nunito-sans",
+    "heading": "nunito",
+    "ar": {
+      "body": "ibm-plex-sans-arabic",
+      "heading": "noto-kufi-arabic"
+    }
+  },
+  "phone": "+90 342 000 00 00",
+  "email": "export@ankatrade.example",
+  "colorScheme": "auto",
+  "seo": {
+    "noindex": true
+  },
+  "cssTokens": {
+    "--mx-radius-sm": "14px",
+    "--mx-radius-md": "24px",
+    "--mx-radius-lg": "34px",
+    "--mx-radius-xl": "46px",
+    "--mx-shadow-md": "0 12px 32px rgba(0,0,0,.10)",
+    "--mx-dur": "200ms"
+  }
+}

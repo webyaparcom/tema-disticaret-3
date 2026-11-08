@@ -1,0 +1,44 @@
+{
+  "name": {
+    "tr": "Misyon",
+    "en": "Mission",
+    "ar": "المهمة"
+  },
+  "status": "play",
+  "id": "misyon",
+  "path": "misyon",
+  "category": "",
+  "text": {
+    "tr": "<h2>Misyonumuz</h2>\n<p>Misyonumuz, üreticiyi doğru alıcıyla, belgeli ve güvenilir bir süreçle buluşturmaktır.</p>",
+    "en": "<h2>Our mission</h2>\n<p>Our mission is to connect producers with the right buyers through a documented, reliable process.</p>",
+    "ar": "<h2>مهمتنا</h2>\n<p>مهمتنا ربط المنتجين بالمشترين المناسبين عبر عملية موثّقة وموثوقة.</p>"
+  },
+  "desing": {
+    "header": [],
+    "body": [
+      "1s60zl",
+      "f31f9f"
+    ],
+    "footer": []
+  },
+  "desc": {},
+  "index": 1,
+  "icon": "home",
+  "title": {
+    "tr": "Misyon",
+    "en": "Mission",
+    "ar": "المهمة"
+  },
+  "description": {
+    "tr": "Misyonumuz",
+    "en": "Our mission",
+    "ar": "مهمتنا"
+  },
+  "keyword": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "update": "2026-10-31T15:02:56.966Z",
+  "date": "2026-05-19"
+}
