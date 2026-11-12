@@ -12,7 +12,7 @@
     "f31f9f"
   ],
   "footer": [
-    "lp6eyt",
+    "aod4qi",
     "w9j8oy"
   ],
   "headerdefault": [
@@ -21,11 +21,11 @@
   ],
   "bodydefault": [],
   "footerdefault": [
-    "lp6eyt",
+    "aod4qi",
     "w9j8oy"
   ],
   "headtop": "",
-  "headbottom": "<style>[class*=\"-m10 \"]{top:var(--mx-demo-bandi-h,48px)!important}</style>",
+  "headbottom": "<style>[class*=\"-m10 \"]{top:var(--mx-demo-bandi-h,48px)!important}</style><style id=\"wy-demo-bandi-menu\">#header>header[class*=\"-m10\"]:not([class*=\"-akista\"]){top:var(--mx-demo-bandi-h,0px)}</style>",
   "colors": {
     "lite": [
       {
