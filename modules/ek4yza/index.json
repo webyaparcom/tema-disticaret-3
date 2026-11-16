@@ -1,12 +1,32 @@
 {
-  "name": "Süreç Adımları",
-  "description": "3–6 adımlık süreç anlatımı: çizgi/ok ile bağlı daire numaralar, altında başlık + metin. Aktif adım vurgusu kaydırmayla ilerler (IntersectionObserver; JS yoksa tüm adımlar düz görünür). desing.stil: yatay (çizgiyle bağlı sıra; mobilde dikey zaman çizgisi) | dikey (iki yanlı zaman çizgisi) | kartli (kart + ok ayraç). Veri: data[] = [{no?, baslik{tr,en,ar}, metin{}, ikon?}]. Renkler yalnız token; koyu mod otomatik; RTL'de ok/çizgi yönü aynalanır.",
-  "version": "1.0.0",
-  "icon": "timeline",
+  "name": {
+    "tr": "Sekmeli Süreç Adımları",
+    "en": "Tabbed Process Steps",
+    "ar": "خطوات العملية بعلامات تبويب"
+  },
+  "description": "Süreç adımları sekmeli gezinti olarak: yanda numaralı dikey adım listesi (role=tablist, ok tuşlarıyla gezinme), yanda seçili adımın büyük detay paneli (ikon, başlık, metin, «Sonraki adım» düğmesi). JS yoksa tüm adımlar alt alta görünür. Mobilde adım listesi yatay kayan şerit. Veri surec-adimlar ile aynı: data[] = [{no?, baslik{}, metin{}, ikon?}].",
+  "path": "surec-adimlar-2",
+  "local": "body",
   "category": "surec",
-  "tags": ["süreç", "adım", "zaman çizgisi", "process", "steps", "ar"],
+  "subCategory": "sekmeli",
+  "version": "1.0.0",
+  "update": "2026-11-01",
+  "icon": "tab",
+  "tags": [
+    "süreç",
+    "adım",
+    "sekme",
+    "process",
+    "steps",
+    "tabs",
+    "ar"
+  ],
+  "veri": {
+    "statik": true,
+    "dinamik": false,
+    "kaynak": "desing + data[]"
+  },
   "desing": {
-    "stil": "yatay",
     "max": "1200px",
     "bgcolor": "var(--mx-site-bg, #ffffff)",
     "textcolor": "var(--mx-site-text, #1b1b1b)",
@@ -18,24 +38,29 @@
     "bordercolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 16%, transparent)",
     "radius": "16px",
     "eyebrow": {
-      "tr": "Nasıl çalışıyoruz?",
-      "en": "How we work",
-      "ar": "كيف نعمل؟"
+      "tr": "Süreç",
+      "en": "Process",
+      "ar": "العملية"
     },
     "title": {
-      "tr": "Dört adımda sonuç",
-      "en": "Results in four steps",
-      "ar": "النتيجة في أربع خطوات"
+      "tr": "Başlık",
+      "en": "Heading",
+      "ar": "العنوان"
     },
     "description": {
-      "tr": "İlk görüşmeden teslime kadar her aşamada ne olacağını önceden bilirsiniz.",
-      "en": "From the first call to handover, you know in advance what happens at every stage.",
-      "ar": "من أول اتصال حتى التسليم، تعرف مسبقًا ما سيحدث في كل مرحلة."
+      "tr": "Kısa açıklama",
+      "en": "Short description",
+      "ar": "وصف قصير"
     },
     "stepLabel": {
       "tr": "Adım {n}",
       "en": "Step {n}",
       "ar": "الخطوة {n}"
+    },
+    "nextLabel": {
+      "tr": "Sonraki adım",
+      "en": "Next step",
+      "ar": "الخطوة التالية"
     },
     "listLabel": {
       "tr": "Süreç adımları",
@@ -45,45 +70,56 @@
   },
   "data": [
     {
-      "ikon": "forum",
-      "baslik": { "tr": "Tanışma", "en": "Discovery", "ar": "التعارف" },
+      "ikon": "flag",
+      "baslik": {
+        "tr": "Adım başlığı",
+        "en": "Step title",
+        "ar": "عنوان الخطوة"
+      },
       "metin": {
-        "tr": "Kısa bir görüşmeyle hedefinizi, bütçenizi ve takviminizi netleştiririz.",
-        "en": "In a short call we clarify your goal, budget and timeline.",
-        "ar": "في مكالمة قصيرة نوضّح هدفك وميزانيتك وجدولك الزمني."
+        "tr": "Bu adımda ne olduğunu kısaca anlatın.",
+        "en": "Briefly explain what happens in this step.",
+        "ar": "اشرح باختصار ما يحدث في هذه الخطوة."
       }
     },
     {
-      "ikon": "draw",
-      "baslik": { "tr": "Planlama", "en": "Planning", "ar": "التخطيط" },
+      "ikon": "edit_note",
+      "baslik": {
+        "tr": "Adım başlığı",
+        "en": "Step title",
+        "ar": "عنوان الخطوة"
+      },
       "metin": {
-        "tr": "Kapsamı yazılı teklife döker, onayınızla iş planını kilitleriz.",
-        "en": "We turn the scope into a written proposal and lock the plan with your approval.",
-        "ar": "نحوّل النطاق إلى عرض مكتوب ونثبّت خطة العمل بموافقتك."
+        "tr": "Bu adımda ne olduğunu kısaca anlatın.",
+        "en": "Briefly explain what happens in this step.",
+        "ar": "اشرح باختصار ما يحدث في هذه الخطوة."
       }
     },
     {
-      "ikon": "construction",
-      "baslik": { "tr": "Uygulama", "en": "Delivery", "ar": "التنفيذ" },
+      "ikon": "build",
+      "baslik": {
+        "tr": "Adım başlığı",
+        "en": "Step title",
+        "ar": "عنوان الخطوة"
+      },
       "metin": {
-        "tr": "Ekibimiz işi takvime göre yürütür; her hafta kısa bir ilerleme özeti alırsınız.",
-        "en": "Our team delivers to schedule; you get a short progress summary every week.",
-        "ar": "ينفّذ فريقنا العمل وفق الجدول، وتتلقى كل أسبوع ملخصًا موجزًا عن التقدّم."
+        "tr": "Bu adımda ne olduğunu kısaca anlatın.",
+        "en": "Briefly explain what happens in this step.",
+        "ar": "اشرح باختصار ما يحدث في هذه الخطوة."
       }
     },
     {
-      "ikon": "verified",
-      "baslik": { "tr": "Teslim ve destek", "en": "Handover & support", "ar": "التسليم والدعم" },
+      "ikon": "task_alt",
+      "baslik": {
+        "tr": "Adım başlığı",
+        "en": "Step title",
+        "ar": "عنوان الخطوة"
+      },
       "metin": {
-        "tr": "Kontrol listesiyle teslim eder, sonrasında da destek hattımızla yanınızda oluruz.",
-        "en": "We hand over against a checklist and stay with you through our support line.",
-        "ar": "نسلّم العمل وفق قائمة تحقق، ونبقى إلى جانبك عبر خط الدعم."
+        "tr": "Bu adımda ne olduğunu kısaca anlatın.",
+        "en": "Briefly explain what happens in this step.",
+        "ar": "اشرح باختصار ما يحدث في هذه الخطوة."
       }
     }
-  ],
-  "veri": {
-    "statik": true,
-    "dinamik": false,
-    "kaynak": "desing/data"
-  }
+  ]
 }
